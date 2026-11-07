@@ -1,10 +1,10 @@
 # Hi, I'm Abd El Mounaim Harzelli 👋
 
-### Intelligent Systems Engineering Student | Software Developer | Exploring AI & Cybersecurity
+### Intelligent Systems' Engineering Student | Full Stack Developer | Exploring AI & Cybersecurity
 
-I'm a Master 1 Intelligent Computer Systems Engineering student , you can call me machine learning, and cybersecurity enthusiast.
+I'm a Master 1 Intelligent Computer Systems Engineering student , you can refer to me as machine learning, and cybersecurity enthusiast.
 
-I enjoy learning how things work more than anything, as well as understanding the principles behind technologies, and turning theoretical knowledge into practical and meaningful projects.
+I enjoy learning how things work, as well as understanding the principles behind technologies, and turning theoretical knowledge into practical and meaningful projects.
 
 Currently focused on strengthening my foundations in software development while exploring Machine Learning, AI, and escpacially Cybersecurity.
 
