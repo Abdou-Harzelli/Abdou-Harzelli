@@ -92,4 +92,4 @@ Currently focused on strengthening my foundations in software development while 
 
 
 
-**Always learning. Always building.**
+## **Always learning. Always building.**
