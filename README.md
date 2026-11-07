@@ -58,18 +58,18 @@ Currently focused on strengthening my foundations in software development while 
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <p align="center">
-  <a href="https://github.com/Abdou-Harzelli">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abdou-Harzelli&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&number_format=long" />
-  </a>
-  <a href="https://github.com/Abdou-Harzelli">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdou-Harzelli&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-  </a>
+  <img
+    height="180"
+    width="44%"
+    src="https://github-stats-extended.vercel.app/api?username=Abdou-Harzelli&show=contributions&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true"
+  />
+  <img
+    height="180"
+    width="50%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abdou-Harzelli&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
+  />
 </p>
-
-
 
 ## 🌐 Connect With Me
 
