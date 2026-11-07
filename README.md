@@ -71,6 +71,11 @@ Currently focused on strengthening my foundations in software development while 
   />
 </p>
 
+
+
+
+
+
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -81,6 +86,10 @@ Currently focused on strengthening my foundations in software development while 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+
+
+
 
 
 **Always learning. Always building.**
