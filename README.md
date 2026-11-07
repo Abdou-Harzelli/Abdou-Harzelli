@@ -60,14 +60,12 @@ Currently focused on strengthening my foundations in software development while 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Abdou-Harzelli&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+<img src="https://github-stats-extended.vercel.app/api?username=Abdou-Harzelli&show_icons=true&theme=github_dark&hide_border=true" />li&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdou-Harzelli&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abdou-Harzelli&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abdou-Harzelli&theme=github-compact&hide_border=true&area=true" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdou-Harzelli&theme=github-compact&hide_border=true&area=true" />
 </div>
 
 
