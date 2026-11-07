@@ -1,4 +1,4 @@
-# Hi, I'm Abdou 👋
+# Hi, I'm Abd El Mounaim Harzelli 👋
 
 ### Computer Science Student | Software Developer | Exploring AI & Cybersecurity
 
