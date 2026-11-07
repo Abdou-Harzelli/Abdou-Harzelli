@@ -2,7 +2,7 @@
 
 ### Computer Science Student | Software Developer | Exploring AI & Cybersecurity
 
-I'm a Intelligent Computer Systems Engineering student interested in software engineering, machine learning, and cybersecurity.
+I'm a Master 1 Intelligent Computer Systems Engineering student interested in software engineering, machine learning, and cybersecurity.
 
 I enjoy learning how things work under the hoo, understanding the principles behind technologies, and turning theoretical knowledge into practical and meaningful projects.
 
@@ -34,7 +34,7 @@ Currently focused on strengthening my foundations in software development while 
 
 ### Machine Learning & Data Science
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pytorch,sklearn" />
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
 </p>
 
 ### Tools & Environment
@@ -55,12 +55,21 @@ Currently focused on strengthening my foundations in software development while 
 
 ---
 
-## 💡 A Little About Me
 
-- Curious about how technology works beneath the surface.
-- Interested in learning through experimentation and practical projects.
-- Always looking to understand the *why*, not just the *how*.
-- Believe that building a strong foundation matters more than rushing through technologies.
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Abdou-Harzelli&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdou-Harzelli&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abdou-Harzelli&theme=github-compact&hide_border=true&area=true" />
+
+</div>
+
 
 
 ## 🌐 Connect With Me
@@ -69,25 +78,10 @@ Currently focused on strengthening my foundations in software development while 
   <a href="https://github.com/Abdou-Harzelli">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/abd-el-mounaim-harzelli/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Abdou-Harzelli&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdou-Harzelli&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdou-Harzelli&theme=github-dark-blue&hide_border=true" />
-</p>
-
-
-
----
 
 **Always learning. Always building.**
