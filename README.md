@@ -60,7 +60,7 @@ Currently focused on strengthening my foundations in software development while 
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Abdou-Harzelli&show_icons=true&theme=github_dark&hide_border=true" />li&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+<img src="https://github-stats-extended.vercel.app/api?username=Abdou-Harzelli&show_icons=true&theme=github_dark&hide_border=true" />
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abdou-Harzelli&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 <br/>
