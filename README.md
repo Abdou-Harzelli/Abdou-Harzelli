@@ -1,4 +1,4 @@
-# Hi, I'm Abd El Mounaim Harzelli 👋
+# Hi, I'm Abd El Mounaim Harzelli 
 
 ### Intelligent Systems' Engineering Student | Full Stack Developer | Exploring AI & Cybersecurity
 
